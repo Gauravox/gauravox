@@ -1,6 +1,6 @@
-👨‍💻 Gaurav Khandelwal | Data Analyst | AI Enthusiast | Problem Solver
-Welcome to my GitHub! 🚀 Here, you'll find projects that showcase my expertise in data analytics, Python programming, and AI solutions. I thrive on transforming raw data into actionable insights and creating innovative tools to drive decisions. Let’s connect and build something amazing! 💡
-
+Hi, I'm Gaurav 👋
+Welcome to my GitHub!
+This is where I upload projects, scripts, and random experiments. I enjoy working with data, Python, and exploring new tech. Feel free to check out my work!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravox) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sportzmenia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gaurav__0010) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sportzmenia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravkhandelwal0010@gmail.com) 
